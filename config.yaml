@@ -1,0 +1,8 @@
+Interval: 8
+ProxyApi:
+  url: https://find.xiaoxiongip.com/find_s5?key=&count=1&type=json&only=0&pw=yes
+Gost:
+  socks5User: user
+  socks5Pass: pass
+  socks5Port: 8888
+  apiurl: 127.0.0.1:8001
