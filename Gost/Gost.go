@@ -114,7 +114,7 @@ func UpdateGostHop(url string, jsonData []byte) error {
 		return fmt.Errorf("unexpected response status: %s", resp.Status)
 	}
 
-	log.Printf("PUT request successful")
+	log.Printf("PUT hop successful")
 	return nil
 }
 

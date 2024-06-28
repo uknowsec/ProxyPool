@@ -47,7 +47,7 @@ Gost:
 2024/06/28 21:35:57 User: 
 2024/06/28 21:35:57 Password: 
 2024/06/28 21:35:57 {"name":"chain-0","hops":[{"name":"hop-0","nodes":[{"name":"node-0","addr":"117.68.38.140:26911","connector":{"type":"socks5","auth":{"username":"","password":""}},"dialer":{"type":"tcp","tls":{"serverName":"117.68.38.140"}}}]}]}
-2024/06/28 21:35:57 PUT request successful
+2024/06/28 21:35:57 PUT hop successful
 ```
 
 #### 代理测试
